@@ -1,4 +1,4 @@
-PROJECT TITLE : Heuristic based optimization implementation and evaluating the a * algorithm for game development.
+PROJECT TITLE : Heuristic based optimization implementation and evaluating the A* algorithm for game development.
 
 PROJECT DONE BY :
 1. 2310030086 - Manav Dhar 
